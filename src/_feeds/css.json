@@ -1,6 +1,34 @@
 {
-	"category": "CSS",
+	"category": "Web",
 	"items": [
-		"https://www.smashingmagazine.com/feed/"
+		"https://www.smashingmagazine.com/feed/",
+		"https://alistapart.com/main/feed/",
+		"https://gomakethings.com/feed/index.xml",
+		"https://web.dev/static/blog/feed.xml",
+		"https://feeds.feedburner.com/brad-frosts-blog",
+		"https://davidwalsh.name/feed",
+		"https://meiert.com/en/feed/",
+		"https://lea.verou.me/feed.xml",
+		"https://snook.ca/posts/index.rss",
+		"https://www.sarasoueidan.com/blog/index.xml",
+		"https://piccalil.li/feed.xml",
+		"https://benmyers.dev/feed.xml",
+		"https://remotesynthesis.com/feed.xml",
+		"https://bryanlrobinson.com/feed.xml",
+		"https://dbushell.com/rss.xml",
+		"https://geoffgraham.me/feed/",
+		"https://www.raymondcamden.com/feed.xml",
+		"https://chriscoyier.net/feed/",
+		"https://whitep4nth3r.com/feed.xml",
+		"https://blog.cassidoo.co/rss.xml",
+		"https://css-irl.info/rss.xml",
+		"https://andy-bell.co.uk/feed.xml",
+		"https://darn.es/rss.xml",
+		"https://ericwbailey.design/feed/feed.xml",
+		"https://www.hawksworx.com/feed.xml",
+		"https://robbowen.digital/feed.xml",
+		"https://www.stefanjudis.com/rss.xml",
+		"https://jaredwhite.com/feed.xml",
+		"https://hamatti.org/feed/feed.xml"
 	]
   }
