@@ -172,7 +172,7 @@
 <outline text="Point-Free Pointers" title="Point-Free Pointers" type="rss" xmlUrl="https://www.pointfree.co/blog/feed/atom.xml" htmlUrl="https://www.pointfree.co/blog"/>
 <outline text="Timetable" title="Timetable" type="rss" xmlUrl="https://timetable.manton.org/feed/podcast" htmlUrl="https://timetable.manton.org/"/>
 <outline text="IEEE Press Releases" title="IEEE Press Releases" type="rss" xmlUrl="https://www.computer.org/category/press-release/feed/" htmlUrl="https://www.computer.org/press-room/news-archive"/>
-<outline text="IEEE Software Magazine  |  IEEE Computer Society" title="IEEE Software Magazine  |  IEEE Computer Society" type="rss" xmlUrl="https://publications.computer.org/software-magazine/feed/" htmlUrl="https://publications.computer.org/software-magazine/"/>
+<outline text="IEEE Software Magazine" title="IEEE Software Magazine" type="rss" xmlUrl="https://publications.computer.org/software-magazine/feed/" htmlUrl="https://publications.computer.org/software-magazine/"/>
 <outline text="NetNewsWire" title="NetNewsWire" type="rss" xmlUrl="https://nnw.ranchero.com/feed.xml" htmlUrl="https://netnewswire.blog/"/>
 <outline text="CSS In Real Life" title="CSS In Real Life" type="rss" xmlUrl="https://css-irl.info/rss.xml" htmlUrl="https://css-irl.info/"/>
 <outline text="Point-Free Videos" title="Point-Free Videos" type="rss" xmlUrl="https://www.pointfree.co/feed/episodes.xml" htmlUrl="https://www.pointfree.co/"/>
