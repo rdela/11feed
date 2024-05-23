@@ -27,7 +27,7 @@
 <outline text="Bjango Articles" title="Bjango Articles" type="rss" xmlUrl="https://bjango.com/rss/articles.xml" htmlUrl="https://bjango.com/articles/"/>
 <outline text="Marco.org" title="Marco.org" type="rss" xmlUrl="https://feeds.feedburner.com/marcoorg" htmlUrl="https://marco.org/"/>
 <outline text="Instapaper Blog" title="Instapaper Blog" type="rss" xmlUrl="https://blog.instapaper.com/rss" htmlUrl="https://blog.instapaper.com/"/>
-<outline text="Setup" title="Setup" type="rss" xmlUrl="https://usesthis.com/feed/" htmlUrl="https://usesthis.com/"/>
+<outline text="Setup" title="Setup" type="atom" xmlUrl="https://usesthis.com/feed.atom" htmlUrl="https://usesthis.com/"/>
 <outline text="Panic Blog" title="Panic Blog" type="rss" xmlUrl="https://www.panic.com/blog/feed/" htmlUrl="https://blog.panic.com"/>
 <outline text="Bitsplitting.org" title="Bitsplitting.org" type="rss" xmlUrl="https://bitsplitting.org/feed/" htmlUrl="https://bitsplitting.org"/>
 <outline text="Tao of Mac" title="Tao of Mac" type="rss" xmlUrl="https://feeds.feedburner.com/taoofmac/full" htmlUrl="https://taoofmac.com"/>
@@ -55,7 +55,7 @@
 <outline text="Junecloud // All Entries" title="Junecloud // All Entries" type="rss" xmlUrl="https://junecloud.com/rss/" htmlUrl="https://junecloud.com/"/>
 <outline text="inessential.com" title="inessential.com" type="rss" xmlUrl="https://inessential.com/xml/rss.xml" htmlUrl="https://inessential.com/"/>
 <outline text="Use Your Loaf" title="Use Your Loaf" type="rss" xmlUrl="https://useyourloaf.com/blog/rss.xml" htmlUrl="https://useyourloaf.com/blog/"/>
-<outline text="Agile Blog" title="Agile Blog" type="rss" xmlUrl="https://blog.agilebits.com/feed/" htmlUrl="https://blog.1password.com/"/>
+<outline text="1Password Blog" title="1Password Blog" type="rss" xmlUrl="https://blog.1password.com/index.xml" htmlUrl="https://blog.1password.com/"/>
 <outline text="Deeplinks" title="Deeplinks" type="rss" xmlUrl="https://www.eff.org/rss/updates.xml" htmlUrl="https://www.eff.org/rss/updates.xml"/>
 <outline text="Google Workspace Status Dashboard Updates" title="Google Workspace Status Dashboard Updates" type="rss" xmlUrl="https://www.google.com/appsstatus/rss/en" htmlUrl="https://www.google.com/appsstatus/dashboard/"/>
 <outline text="Brett Terpstra" title="Brett Terpstra" type="rss" xmlUrl="https://feeds.feedburner.com/BrettTerpstra" htmlUrl="https://brettterpstra.com"/>
@@ -106,17 +106,15 @@
 <outline text="Freesound Blog" title="Freesound Blog" type="rss" xmlUrl="https://blog.freesound.org/?feed=rss2" htmlUrl="https://blog.freesound.org"/>
 <outline text="strugglingcoder" title="strugglingcoder" type="rss" xmlUrl="https://www.strugglingcoder.info/index.php/feed/" htmlUrl="https://strugglingcoder.info"/>
 <outline text="BRIAN BROWNE WALKER" title="BRIAN BROWNE WALKER" type="rss" xmlUrl="https://brianbrownewalker.com/feed/" htmlUrl="https://brianbrownewalker.com"/>
-<outline text="FontLab Blog" title="FontLab Blog" type="rss" xmlUrl="https://blog.fontlab.com/feed/" htmlUrl="https://blog.fontlab.com"/>
-<outline text="ZINA SAUNDERS BLOG" title="ZINA SAUNDERS BLOG" type="rss" xmlUrl="https://zinasaunders.blogspot.com//feeds/posts/default" htmlUrl="https://zinasaunders.blogspot.com/"/>
+<outline text="FontLab News Archives" title="FontLab News Archives" type="rss" xmlUrl="https://www.fontlab.com/news/feed/" htmlUrl="https://www.fontlab.com/news/"/>
+<outline text="ZINA SAUNDERS BLOG" title="ZINA SAUNDERS BLOG" type="rss" xmlUrl="https://zinasaunders.blogspot.com/feeds/posts/default" htmlUrl="https://zinasaunders.blogspot.com/"/>
 <outline text="rdela GitHub activity" title="rdela GitHub activity" type="rss" xmlUrl="https://github.com/rdela.atom" htmlUrl="https://github.com/rdela"/>
 <outline text="BSD Now" title="BSD Now" type="rss" xmlUrl="https://feeds.feedburner.com/BsdNowMp3" htmlUrl="https://www.bsdnow.tv"/>
 <outline text="iOS Dev Weekly" title="iOS Dev Weekly" type="rss" xmlUrl="https://iosdevweekly.com/issues.rss" htmlUrl="https://iosdevweekly.com/issues"/>
 <outline text="mark nottingham" title="mark nottingham" type="rss" xmlUrl="https://www.mnot.net/blog/index.atom" htmlUrl="https://www.mnot.net/blog/"/>
-<outline text="Sketches and Things" title="Sketches and Things" type="rss" xmlUrl="https://sketches.dlanham.com/rss" htmlUrl="https://sketches.dlanham.com/"/>
 <outline text="MartianCraft: The Syndicate" title="MartianCraft: The Syndicate" type="rss" xmlUrl="https://martiancraft.com/feed.xml" htmlUrl="https://martiancraft.com"/>
 <outline text="Dan Langille's Other Diary" title="Dan Langille's Other Diary" type="rss" xmlUrl="https://dan.langille.org/feed/" htmlUrl="https://dan.langille.org"/>
 <outline text="Jesse Squires" title="Jesse Squires" type="rss" xmlUrl="https://www.jessesquires.com/feed.xml" htmlUrl="https://www.jessesquires.com/"/>
-<outline text="Sonic Blog" title="Sonic Blog" type="rss" xmlUrl="https://corp.sonic.net/ceo/feed/" htmlUrl="https://corp.sonic.net/ceo"/>
 <outline text="Stay Frosty" title="Stay Frosty" type="rss" xmlUrl="https://frosty.blog/feed" htmlUrl="https://frosty.blog"/>
 <outline text="blender.org" title="blender.org" type="rss" xmlUrl="https://www.blender.org/feed/" htmlUrl="https://www.blender.org"/>
 <outline text="KeyCDN Blog" title="KeyCDN Blog" type="rss" xmlUrl="https://www.keycdn.com/blog/feed/" htmlUrl="https://www.keycdn.com/blog"/>
@@ -124,14 +122,10 @@
 <outline text="Unicode Blog" title="Unicode Blog" type="rss" xmlUrl="https://blog.unicode.org/feeds/posts/default?alt=rss" htmlUrl="https://blog.unicode.org/"/>
 <outline text="Blog - Slugline" title="Blog - Slugline" type="rss" xmlUrl="https://slugline.co/blog?format=RSS" htmlUrl="https://slugline.co/blog/"/>
 <outline text="Butterick’s Practical Typography" title="Butterick’s Practical Typography" type="rss" xmlUrl="https://practicaltypography.com/feed.xml" htmlUrl="https://practicaltypography.com"/>
-<outline text="More Than Just Code podcast - iOS and Swift development, news and advice" title="More Than Just Code podcast - iOS and Swift development, news and advice" type="rss" xmlUrl="https://www.it-guy.com/podcasts/ajtm_feed.xml.rss" htmlUrl="https://mtjc.fireside.fm"/>
 <outline text="Objective-See's Blog" title="Objective-See's Blog" type="rss" xmlUrl="https://objective-see.com/rss.xml" htmlUrl="https://www.objective-see.com"/>
 <outline text="Development Seed" title="Development Seed" type="rss" xmlUrl="https://developmentseed.org/rss.xml" htmlUrl="https://developmentseed.org"/>
-<outline text="FontShop News" title="FontShop News" type="rss" xmlUrl="https://www.fontshop.com/news/feed.atom" htmlUrl="https://www.fontshop.com"/>
 <outline text="Auth0 Blog" title="Auth0 Blog" type="rss" xmlUrl="https://auth0.com/blog/rss.xml" htmlUrl="https://auth0.com/blog/"/>
-<outline text="Little Bites of Cocoa" title="Little Bites of Cocoa" type="rss" xmlUrl="https://littlebitesofcocoa.com/rss" htmlUrl="https://littlebitesofcocoa.com"/>
 <outline text="Diplograph" title="Diplograph" type="rss" xmlUrl="https://diplograph.net/atom" htmlUrl="https://diplograph.net/"/>
-<outline text="Spamhaus Project News" title="Spamhaus Project News" type="rss" xmlUrl="https://www.spamhaus.org/news/rss/" htmlUrl="https://www.spamhaus.org/news/"/>
 <outline text="Swift.org" title="Swift.org" type="rss" xmlUrl="https://swift.org/atom.xml" htmlUrl="https://swift.org/atom.xml"/>
 <outline text="WebKit" title="WebKit" type="rss" xmlUrl="https://webkit.org/feed/" htmlUrl="https://webkit.org"/>
 <outline text="Henri Sivonen’s pages" title="Henri Sivonen’s pages" type="rss" xmlUrl="https://hsivonen.fi/feed/atom/" htmlUrl="https://hsivonen.fi/"/>
@@ -160,7 +154,6 @@
 <outline text="Blog on Machine, Think!" title="Blog on Machine, Think!" type="rss" xmlUrl="https://machinethink.net/blog/index.xml" htmlUrl="https://machinethink.net/blog/index.xml"/>
 <outline text="One Foot Tsunami" title="One Foot Tsunami" type="rss" xmlUrl="https://onefoottsunami.com/feed/atom/" htmlUrl="https://onefoottsunami.com"/>
 <outline text="Instapaper: Unread" title="Instapaper: Unread" type="rss" xmlUrl="https://www.instapaper.com/rss/287301/5TR1niHmsPSyKoas2J5BQJYNQ" htmlUrl="https://www.instapaper.com/u"/>
-<outline text="Mozilla Marketing Engineering &amp; Operations" title="Mozilla Marketing Engineering &amp; Operations" type="rss" xmlUrl="https://mozilla.github.io/meao/atom.xml" htmlUrl="https://mozilla.github.io/meao/"/>
 <outline text="C-Command Software Blog" title="C-Command Software Blog" type="rss" xmlUrl="https://c-command.com/blog/feed/" htmlUrl="https://c-command.com/blog"/>
 <outline text="Increment" title="Increment" type="rss" xmlUrl="https://increment.com/feed.xml" htmlUrl="https://increment.com"/>
 <outline text="Benaiah Mischenko" title="Benaiah Mischenko" type="rss" xmlUrl="https://benaiah.me/rss.xml" htmlUrl="https://benaiah.me"/>
@@ -177,7 +170,6 @@
 <outline text="Can I Use updates" title="Can I Use updates" type="rss" xmlUrl="https://feeds.feedburner.com/WhenCanIUse" htmlUrl="https://caniuse.com/feed"/>
 <outline text="Ricky de Laveaga activity" title="Ricky de Laveaga activity" type="rss" xmlUrl="https://gitlab.com/rdela.atom" htmlUrl="https://gitlab.com/rdela"/>
 <outline text="Point-Free Pointers" title="Point-Free Pointers" type="rss" xmlUrl="https://www.pointfree.co/blog/feed/atom.xml" htmlUrl="https://www.pointfree.co/blog"/>
-<outline text="Yarn Status" title="Yarn Status" type="rss" xmlUrl="https://status.yarnpkg.com/rss" htmlUrl="https://status.yarnpkg.com/rss"/>
 <outline text="Timetable" title="Timetable" type="rss" xmlUrl="https://timetable.manton.org/feed/podcast" htmlUrl="https://timetable.manton.org/"/>
 <outline text="IEEE Press Releases" title="IEEE Press Releases" type="rss" xmlUrl="https://www.computer.org/category/press-release/feed/" htmlUrl="https://www.computer.org/press-room/news-archive"/>
 <outline text="IEEE Software Magazine  |  IEEE Computer Society" title="IEEE Software Magazine  |  IEEE Computer Society" type="rss" xmlUrl="https://publications.computer.org/software-magazine/feed/" htmlUrl="https://publications.computer.org/software-magazine/"/>
