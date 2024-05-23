@@ -1,16 +1,21 @@
 {
   "name": "11feed",
   "version": "1.0.0",
-  "description": "",
+  "description": "rdela 11feed",
   "main": "index.js",
   "scripts": {
+    "d": "npx @11ty/eleventy --serve",
     "start": "npx @11ty/eleventy --serve"
   },
   "keywords": [],
   "author": "",
+  "contributors": [
+    "Mike Neumegen (https://mikeneumegen.com/)",
+    "Ricky de Laveaga (https://rdela.com)"
+  ],
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "3.0.0-alpha.5"
+    "@11ty/eleventy": "3.0.0-alpha.10"
   },
   "dependencies": {
     "@11ty/eleventy-fetch": "^4.0.1",
